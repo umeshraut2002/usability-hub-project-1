@@ -1,0 +1,332 @@
+.hfont
+{
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    COLOR: blue;
+    FONT-SIZE: 12pt
+}
+.Lfont
+{
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    COLOR: #800000;
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold
+}
+.cfont
+{
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    COLOR: black;
+    FONT-SIZE: 10pt
+}
+A.hcatlist:active
+{
+    FONT-FAMILY: Verdana, Tahoma;
+    COLOR: #0000ff;
+    FONT-SIZE: 10pt;
+    TEXT-DECORATION: none
+}
+A.hcatlist:link
+{
+    FONT-FAMILY: Tahoma, Verdana, arial, helvetica, sans-serif;
+    COLOR: black;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlist:visited
+{
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    COLOR: #8b0000;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlist:hover
+{
+    BACKGROUND-ATTACHMENT: scroll;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    BACKGROUND-POSITION: 0% 50%;
+    COLOR: #0000ff;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+.hpgcinfo
+{
+    BACKGROUND-COLOR: #edebe9;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 8pt
+}
+TABLE.bkCTable
+{
+    BORDER-BOTTOM: #d2232a thin solid;
+    TEXT-ALIGN: center;
+    BORDER-LEFT: #d2232a thin solid;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    FONT-FAMILY: Verdana, Tahoma;
+    FONT-SIZE: 10pt;
+    BORDER-TOP: #d2232a thin solid;
+    BORDER-RIGHT: #d2232a thin solid;
+    PADDING-TOP: 0px
+}
+.spanstyle
+{
+    POSITION: absolute;
+    VISIBILITY: visible;
+    COLOR: green;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    TOP: -50px
+}
+.mfont
+{
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: black;
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold
+}
+A.hcatlistw:active
+{
+    FONT-FAMILY: Verdana, Tahoma;
+    COLOR: #fffacd;
+    FONT-SIZE: 11pt;
+    TEXT-DECORATION: none
+}
+A.hcatlistw:link
+{
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    COLOR: #fffacd;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlistw:visited
+{
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    COLOR: blue;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A.hcatlistw:hover
+{
+    BACKGROUND-ATTACHMENT: scroll;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana, Tahoma, arial, helvetica, sans-serif;
+    BACKGROUND-POSITION: 0% 50%;
+    COLOR: yellow;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+.TextArea
+{
+    BORDER-BOTTOM: gray 1pt solid;
+    TEXT-ALIGN: left;
+    BORDER-LEFT: gray 1pt solid;
+    BACKGROUND-COLOR: white;
+    MARGIN-TOP: 0px;
+    FONT-FAMILY: Verdana, Tahoma, Arial, Georgia;
+    MARGIN-BOTTOM: 0pt;
+    HEIGHT: 50pt;
+    COLOR: black;
+    MARGIN-LEFT: 0pt;
+    FONT-SIZE: 8pt;
+    BORDER-TOP: gray 1pt solid;
+    BORDER-RIGHT: gray 1pt solid
+}
+.ListBox
+{
+    BORDER-BOTTOM: darkred 1pt solid;
+    BORDER-LEFT: darkred 1pt solid;
+    FONT-FAMILY: Verdana, Tahoma, Arial, 'Times New Roman', Georgia;
+    COLOR: black;
+    FONT-SIZE: 8pt;
+    BORDER-TOP: darkred 1pt solid;
+    FONT-WEIGHT: normal;
+    BORDER-RIGHT: darkred 1pt solid
+}
+.ButtonText
+{
+    BORDER-BOTTOM: dimgray thin ridge;
+    BORDER-LEFT: dimgray thin ridge;
+    BACKGROUND-COLOR: #c0c0c0;
+    PADDING-LEFT: 0pt;
+    PADDING-RIGHT: 0pt;
+    FONT-FAMILY: Tahoma, Arial, 'Times New Roman', 'MS Sans Serif', Verdana;
+    COLOR: maroon;
+    MARGIN-LEFT: 0pt;
+    FONT-SIZE: 11pt;
+    BORDER-TOP: dimgray thin ridge;
+    FONT-WEIGHT: 500;
+    MARGIN-RIGHT: 0pt;
+    BORDER-RIGHT: dimgray thin ridge
+}
+.td2
+{
+    TEXT-ALIGN: left;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: black;
+    height:36px;
+    FONT-SIZE: 8pt
+}
+.tds
+{
+    TEXT-ALIGN: left;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: black;
+    height:25px;
+    FONT-SIZE: 7pt
+}
+
+.td
+{
+    TEXT-ALIGN: left;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: black;
+    height:36px;
+    FONT-SIZE: 8pt
+}
+.td1
+{
+    TEXT-ALIGN: left;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: black;
+    FONT-SIZE: 10pt;
+    margin-top:5px;
+    height:30px;
+    BACKGROUND-COLOR: #f7f7e0;
+}
+.td2
+{
+    TEXT-ALIGN: left;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    height:30px;
+    margin-top:5px;
+    COLOR: black;
+    FONT-SIZE: 10pt
+}
+.TextBox
+{
+    BORDER-BOTTOM: gray 1pt solid;
+    BORDER-LEFT: gray 1pt solid;
+    FONT-FAMILY: Verdana, Tahoma, Arial, 'Times New Roman', 'MS Sans Serif';
+    
+    COLOR: black;
+    FONT-SIZE: 10pt;
+    BORDER-TOP: gray 1pt solid;
+    BORDER-RIGHT: gray 1pt solid
+}
+.TextBox1
+{
+    BORDER-BOTTOM: gray 1pt solid;
+    BORDER-LEFT: gray 1pt solid;
+    BACKGROUND-COLOR: #d2232a;
+    WIDTH: 650px;
+    FONT-FAMILY: Tahoma, Verdana, Arial, 'Times New Roman', 'MS Sans Serif';
+    HEIGHT: 20px;
+    COLOR: black;
+    FONT-SIZE: 10pt;
+    BORDER-TOP: gray 1pt solid;
+    BORDER-RIGHT: gray 1pt solid
+}
+.tdheader
+{
+    TEXT-ALIGN: left;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    HEIGHT: 25px;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold
+}
+.c2font
+{
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: red;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold
+}
+.tdheader2
+{
+    TEXT-ALIGN: left;
+    BACKGROUND-COLOR: #2788C8; // #d2232a;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    HEIGHT: 35px;
+    COLOR: white;
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold
+}
+.td3
+{
+    TEXT-ALIGN: left;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: ;
+    FONT-SIZE: 9pt
+}
+.tdheader3
+{
+    BORDER-BOTTOM: yellow solid;
+    TEXT-ALIGN: center;
+    BORDER-LEFT: yellow solid;
+    BACKGROUND-COLOR: #1e90ff;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    COLOR: white;
+    FONT-SIZE: 12pt;
+    BORDER-TOP: yellow solid;
+    FONT-WEIGHT: bold;
+    BORDER-RIGHT: yellow solid
+}
+.bkCTable2
+{
+    BORDER-BOTTOM: #888888 1px solid;
+    BORDER-LEFT: #888888 1px solid;
+    BORDER-TOP: #888888 1px solid;
+    BORDER-RIGHT: #888888 1px solid;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px #888888
+}
+.mainlink{
+margin-bottom:3px;margin-top:3px;margin-left:5px;margin-right:5px;}
+
+
+.navbar-inverse {
+    background-color: #2788C8 !important;
+    border-color: #FFFFFF !important;
+}
+.navbar .nav > li > a {
+    float: none;
+    line-height: 19px;
+    padding: 9px 10px 11px;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    color:  white;
+font-family:'Trebuchet MS';
+  font-size:14px;
+
+    
+}
+.navbar .nav > li > a:hover {
+    float: none;
+    color: #993300;
+ //   background-color: #5FC8D6;
+}
+ul li:hover:after1{
+   border-bottom: 2px solid red;
+   bottom: 0;
+   content: "";
+   left: 0;
+   position: absolute;
+  width: 100px;
+}
+
+.span_nav {
+  display:block;
+  width:calc(100% - 23px);
+  height:4px;
+  background:blue;
+  position:absolute;
+  left:10px;
+  bottom:-5px;
+}
